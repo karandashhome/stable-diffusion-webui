@@ -1941,5 +1941,16 @@
     "img2img/Save Presets/visible": true,
     "img2img/Open TextEditor/visible": true,
     "customscript/lora_block_weight.py/img2img/print change/visible": true,
-    "customscript/lora_block_weight.py/img2img/print change/value": false
+    "customscript/lora_block_weight.py/img2img/print change/value": false,
+    "deepdanboru_tag2folder_tab/Source Folder/visible": true,
+    "deepdanboru_tag2folder_tab/Source Folder/value": "",
+    "deepdanboru_tag2folder_tab/Target Folder/visible": true,
+    "deepdanboru_tag2folder_tab/Target Folder/value": "",
+    "deepdanboru_tag2folder_tab/Automatic Type/visible": true,
+    "deepdanboru_tag2folder_tab/Automatic Type/value": "None",
+    "deepdanboru_tag2folder_tab/Threshold/visible": true,
+    "deepdanboru_tag2folder_tab/Threshold/value": 0.5,
+    "deepdanboru_tag2folder_tab/Rules/visible": true,
+    "deepdanboru_tag2folder_tab/Rules/value": "{\n \"<subfolder_name>\": {\n  \"OR\": [\n   \"<tag1>\",\n   \"<tag2>\"\n  ]\n }\n}",
+    "deepdanboru_tag2folder_tab/Process/visible": true
 }

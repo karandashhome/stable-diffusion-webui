@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repositories/BLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repositories/CodeFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repositories/generative-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repositories/k-diffusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repositories/stable-diffusion-stability-ai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repositories/taming-transformers" vcs="Git" />
   </component>
 </project>
